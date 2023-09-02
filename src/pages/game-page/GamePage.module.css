@@ -1,0 +1,22 @@
+.gamePageContent {
+  display: flex;
+}
+
+.gamePageLeft {
+  width: 70%;
+}
+
+.gamePageRight {
+  width: 30%;
+  padding-bottom: 10px;
+  border-radius: 15px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 5px 15px;
+}
+
+.gamePageBuyGame {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+/*# sourceMappingURL=GamePage.module.css.map */

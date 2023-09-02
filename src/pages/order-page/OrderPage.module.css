@@ -1,0 +1,19 @@
+.orderPage {
+  display: flex;
+  justify-content: space-between;
+}
+
+.orderPageLeft {
+  width: 85%;
+  margin: 40px auto;
+}
+
+.orderPageRight {
+  width: 85%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: flex-start;
+  font-size: 18px;
+}
+
+/*# sourceMappingURL=OrderPage.module.css.map */
